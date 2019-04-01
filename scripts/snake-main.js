@@ -1,7 +1,7 @@
 window.onload = function() {
     canvas = document.getElementById("snakeCanvas");
     canvasContext = canvas.getContext("2d");
-    document.addEventListener("keydown", keyPush);
+    document.addEventListener("keydown", keyPress);
     setInterval(flow, 1000/10);
 }
 var x = 0,

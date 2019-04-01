@@ -14,7 +14,8 @@ var x = 0,
     ax = 15,
     ay = 15,
     xSpeed = 0,
-    ySpeed = 0;
+    ySpeed = 0,
+    trail = [];
 
 function flow() {
     px+=xSpeed;

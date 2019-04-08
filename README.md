@@ -1,2 +1,2 @@
 # js-snake
-Snake done in javascript
+The classic game Snake in plain javascript, following a tutorial.
